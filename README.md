@@ -4,3 +4,5 @@
 This repository contains a simple project that will support your studies on Genetic Algorithm using a simulated environtment (Webots).
 
 The instructions will be delivered during the laboratory sessions.
+# intelligentrobotics
+for the CW
